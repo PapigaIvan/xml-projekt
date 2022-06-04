@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <gpus>
+        <!-- msrp u dolarima-->
+        <series_30>
+            <gpu>
+                <model>GeForce RTX 3090</model>
+                <codename>GA102-300-A1</codename>
+                <launch>2020</launch>
+                <architecture>Ampere</architecture>
+                <msrp>1499</msrp> 
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 3080 Ti</model>
+                <codename>GA102-225-A1</codename>
+                <launch>2021</launch>
+                <architecture>Ampere</architecture>
+                <msrp>1199</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 3080</model>
+                <codename>GA102-200-KD-A1</codename>
+                <launch>2020</launch>
+                <architecture>Ampere</architecture>
+                <msrp>699</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 3070 Ti</model>
+                <codename>GA104-400-A1</codename>
+                <launch>2021</launch>
+                <architecture>Ampere</architecture>
+                <msrp>599</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 3070</model>
+                <codename>GA104-300-A1</codename>
+                <launch>2020</launch>
+                <architecture>Ampere</architecture>
+                <msrp>499</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 3060 Ti</model>
+                <codename>GA104-200-A1</codename>
+                <launch>2020</launch>
+                <architecture>Ampere</architecture>
+                <msrp>399</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 3060</model>
+                <codename>GA106-300-A1</codename>
+                <launch>2021</launch>
+                <architecture>Ampere</architecture>
+                <msrp>329</msrp>
+            </gpu>
+            
+            <gpu>
+                <model>GeForce RTX 3050</model>
+                <codename>GA106-150-A1</codename>
+                <launch>2022</launch>
+                <architecture>Ampere</architecture>
+                <msrp>249</msrp>
+            </gpu>
+        </series_30>
+        <series_20>
+            <gpu>
+                <model>GeForce RTX 2080 Ti</model>
+                <codename>TU102-300-K1-A1</codename>
+                <launch>2018</launch>
+                <architecture>Turing</architecture>
+                <msrp>1199</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 2080 Super</model>
+                <codename>TU104-450-A1</codename>
+                <launch>2019</launch>
+                <architecture>Turing</architecture>
+                <msrp>699</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 2080</model>
+                <codename>TU104-400-A1</codename>
+                <launch>2018</launch>
+                <architecture>Turing</architecture>
+                <msrp>799</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 2070 Super</model>
+                <codename>TU104-410-A1</codename>
+                <launch>2019</launch>
+                <architecture>Turing</architecture>
+                <msrp>499</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 2070</model>
+                <codename>TU106-400-A1</codename>
+                <launch>2018</launch>
+                <architecture>Turing</architecture>
+                <msrp>599</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 2060 Super</model>
+                <codename>TU106-410-A1</codename>
+                <launch>2019</launch>
+                <architecture>Turing</architecture>
+                <msrp>399</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce RTX 2060</model>
+                <codename>TU104-150-KC-A1</codename>
+                <launch>2020</launch>
+                <architecture>Turing</architecture>
+                <msrp>299</msrp>
+            </gpu>
+        </series_20>
+        <series_10>
+            <gpu>
+                <model>GeForce GTX 1080 Ti</model>
+                <codename>GP102-350-K1-A1</codename>
+                <launch>2017</launch>
+                <architecture>Pascal</architecture>
+                <msrp>699</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce GTX 1080</model>
+                <codename>GP104-410-A1</codename>
+                <launch>2017</launch>
+                <architecture>Pascal</architecture>
+                <msrp>499</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce GTX 1070 Ti</model>
+                <codename>GP104-300-A1</codename>
+                <launch>2017</launch>
+                <architecture>Pascal</architecture>
+                <msrp>449</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce GTX 1070</model>
+                <codename>GP104-200-A1</codename>
+                <launch>2018</launch>
+                <architecture>Pascal</architecture>
+                <msrp>379</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce GTX 1060</model>
+                <codename>GP106-410-A1</codename>
+                <launch>2017</launch>
+                <architecture>Pascal</architecture>
+                <msrp>299</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce GTX 1050 Ti</model>
+                <codename>GP107-400-A1</codename>
+                <launch>2016</launch>
+                <architecture>Pascal</architecture>
+                <msrp>139</msrp>
+            </gpu>
+            <gpu>
+                <model>GeForce GTX 1050</model>
+                <codename>GP107-301-A1</codename>
+                <launch>2018</launch>
+                <architecture>Pascal</architecture>
+                <msrp>109</msrp>
+            </gpu>
+        </series_10>
+    </gpus>
